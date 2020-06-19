@@ -1,0 +1,33 @@
+h1{
+    color: #9932CC;
+    text-decoration-line: overline;
+    text-decoration-style: wavy;
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
+    font-variant: small-caps;
+}
+/*{
+    //border:dotted;
+}*/
+.header{
+    background-color: #F5F5F5;
+    display: flex;
+    justify-content: space-evenly;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    text-align: center;
+}
+.footer{
+    display: flex;
+    justify-content: unsafe;
+}
+p,h2{
+    text-align: center;
+}
+body{
+    /*background-color: rgb(128,128,128);*/
+    background-color: #808080;
+}
